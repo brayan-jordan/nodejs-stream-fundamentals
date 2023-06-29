@@ -5,7 +5,7 @@ Projeto utilizado para entender como funciona o conceito de Stream's por baixo d
 
 Nesse projeto criei 2 servidores com 1 requisição cada, a requisição de um dos servidores vai tratando os dados de acordo com o recebimento em pequenas parcelas (supondo que o cliente está enviando muitos dados) e o outro servidor espera o recebimento de todos os dados para começar o tratamento.
 
-## Bora ver isso funcionando?
+## Bora ver isso funcionando? 🚀
 
 ```bash
 # entrar na pasta que está armazenado os arquivos 
